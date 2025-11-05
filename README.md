@@ -44,6 +44,8 @@ Agents → Outlook → Zapier → Google Drive → GCP (Python ETL) → Power BI
 -Cloud-Ready: Fully compatible with GCP and Power BI Service for enterprise deployment.
 
 **Dashboard Preview**
-1. https://github.com/the-bipul-kumar/USA-FINANCIAL-DATA/blob/main/financial_page2.png
 
-2.https://github.com/the-bipul-kumar/USA-FINANCIAL-DATA/blob/main/financial_page1.png
+![Dashboard Snapshot](https://github.com/the-bipul-kumar/USA-FINANCIAL-DATA/blob/main/financial_page1.png)
+![Dashboard Snapshot](https://github.com/the-bipul-kumar/USA-FINANCIAL-DATA/blob/main/financial_page2.png)
+
+
