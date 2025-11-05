@@ -6,12 +6,12 @@ By integrating Outlook, Zapier, Google Drive, GCP, Python, and Power BI, this sy
 
 **Tech Stack**
 The dashboard and pipeline were built using the following tools and technologies:
--Outlook – Source of financial data (agents email CSV/Excel reports).
--Zapier – Automation bridge to transfer email attachments to Google Drive.
--Google Drive – Intermediate cloud storage for incoming files.
--Python (ETL) – Cleans, merges, and standardizes data; runs on Google Cloud.
--Google Cloud Platform (GCP) – Hosts Python scripts, Cloud Storage buckets, and optional BigQuery integration.
--Power BI Desktop & Service – Data visualization and automated dashboard refresh.
+-**Outlook** – Source of financial data (agents email CSV/Excel reports).
+-**Zapier** – Automation bridge to transfer email attachments to Google Drive.
+-**Google Drive** – Intermediate cloud storage for incoming files.
+-**Python (ETL)** – Cleans, merges, and standardizes data; runs on Google Cloud.
+-**Google Cloud Platform (GCP)** – Hosts Python scripts, Cloud Storage buckets, and optional BigQuery integration.
+-**Power BI Desktop & Service** – Data visualization and automated dashboard refresh.
 -File Format – .csv for raw data, .pbix for dashboard file.
 
 **Data Source**
@@ -32,7 +32,7 @@ Ensures real-time and accurate reporting.
 Provides centralized insights through dynamic Power BI visuals.
 
 **Workflow Overview**
-Agents → Outlook → Zapier → Google Drive → GCP (Python ETL) → Power BI
+**Agents → Outlook → Zapier → Google Drive → GCP (Python ETL) → Power BI**
 
 
 **Business Impact & Insights**
